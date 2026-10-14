@@ -1,0 +1,13 @@
+metric,value,unit
+starting_cash,2500000,USD
+starting_mrr,120000,USD_per_month
+new_mrr,15000,USD_per_month
+monthly_churn,0.025,fraction
+gross_margin,0.78,fraction
+starting_headcount,12,employees
+monthly_hires,1,employees_per_month
+monthly_loaded_cost,11000,USD_per_employee_month
+monthly_nonpayroll_opex,55000,USD_per_month
+cac_spend,30000,USD_per_month
+new_customers,15,customers_per_month
+arpa,800,USD_per_customer_month
